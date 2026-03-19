@@ -84,6 +84,6 @@ if __name__ == "__main__":
 
 ## OUTPUT:
 ![i](img.png)
-![i](image.png)
+![i](https://github.com/DHARSHANV7/genai-stable-diffusion-gradio/blob/03da783fd3458a118ec7b150c10935b98c619710/Screenshot1.png)
 ## RESULT:
 The prototype successfully demonstrates text-to-image generation using Stable Diffusion, providing an interactive and user-friendly interface. Users can modify parameters to influence the output quality and style.
